@@ -12,5 +12,6 @@ Vous devez configurer les variables d'environnement suivantes :
 GROUNDX_API_KEY=...
 ```
 [Obtenez vos clés API GroundX ici](https://eyelevel.ai/)
+
 Assurez-vous que ces variables sont correctement configurées avant d'exécuter l'application. Utilisez `.env.example` comme référence et créez votre propre fichier `.env`.
----
+
